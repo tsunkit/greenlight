@@ -1,7 +1,11 @@
 # greenlight java code assignment
 Section A
-1. Please refer to com.greenlight.assignment.model.animal.Bird;
+
+1. Please refer to com.greenlight.assignment.model.animal.Bird
+
 a. Please refer to com.greenlight.assignment.Animal.BirdTester
+
+
 b. By using Singable interface, it's so that we can know which animal is singable
 You can check their actions using testAnimalDetails method from com.greenlight.assignment.test.AnimalTester
 
